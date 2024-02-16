@@ -1,0 +1,16 @@
+.container_small-card > a{
+  /* border: #fff solid 1px; */
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.container_small-card {
+  margin-bottom: 15px;
+}
+
+.small-card_img > img{
+  width: 200px;
+  margin-right: 20px;
+}
